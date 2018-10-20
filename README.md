@@ -20,6 +20,10 @@ More details can be found here :
 
 https://github.com/KonstantinosBarmpas/Traffic-Light-Classifier
 
+---
+
+---
+
 ### Installation SetUp
 
 Please use **one** of the two installation options, either native **or** docker installation.

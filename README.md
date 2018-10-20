@@ -11,6 +11,15 @@ The team members are:
 
 ---
 
+### My part
+During Udacity's "Self-Driving Car Engineer Nanodegree" Capstone project, my part of the project was to design the two Traffic Light Classifier models for the two modes (simulator and site).
+
+More details can be found here :
+
+https://github.com/KonstantinosBarmpas/Traffic-Light-Classifier
+
+### Installation SetUp
+
 Please use **one** of the two installation options, either native **or** docker installation.
 
 ### Native Installation

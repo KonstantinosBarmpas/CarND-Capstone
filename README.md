@@ -5,7 +5,7 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 ### Credits
 
 The team members are:
-* Georgios Varisteas    varisteas@gmail.com
+* Georgios Varisteas    varisteas@gmail.com (Team Leader) 
 * Konstantinos Barmpas    ntinosbarmpas@gmail.com
 * Daniel Gámez Franco    gmzcodes@outlook.com
 * Kevin Wen    935413249@qq.com

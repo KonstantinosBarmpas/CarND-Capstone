@@ -6,10 +6,12 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 
 The team members are:
 * Georgios Varisteas    varisteas@gmail.com (Team Leader) 
-* Konstantinos Barmpas    ntinosbarmpas@gmail.com
+* **Konstantinos Barmpas    ntinosbarmpas@gmail.com**
 * Daniel Gámez Franco    gmzcodes@outlook.com
 * Kevin Wen    935413249@qq.com
 * Katsumi Inoue    katsusea528@gmail.com
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
